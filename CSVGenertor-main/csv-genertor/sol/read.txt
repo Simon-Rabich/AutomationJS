@@ -1,0 +1,22 @@
+#Csv generator with data on activity trading itself from client side, take insights
+Install dependencies :
+
+npm i request, ws, fs, nodemailer etc. Run it on Node
+
+The project gives you an understanding of the acts that occur during the process
+
+Because the code runs synchronously which means the next http request is not sent until a reply is received from the previous
+
+Therefore you can understand how the flow of the calls happens.
+
+Main job :
+
+At the end, Report will be genreted where he represntes data on the activity itself then it sends to email to accounts
+
+Underneath :
+
+connecting to Web Socket Secure who aggregated with others streaming data pipelines
+
+Taking Ask and Bid prices for Buy and Sell agianst MS Trade
+
+Do it repidtly with cahnging sllipage 0 til 5

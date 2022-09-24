@@ -1,0 +1,1 @@
+row_num,side,product_name,request_time,response_time,elapsed_time_ms,websocket_price,execute_price,quantity,slippage,trade_id,timestamp_ws_tick,http_code

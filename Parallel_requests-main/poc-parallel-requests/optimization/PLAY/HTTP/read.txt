@@ -1,0 +1,3 @@
+Sequential: do this and then do that
+Concurrent: do this and do that without waiting between
+Parallel: do this and do that at the exact same time
