@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-mailosaur": "^2.7.0",
+    "prettier": "2.6.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "winston": "^3.7.2",
+    "ws": "^8.6.0"
+  }
+}
